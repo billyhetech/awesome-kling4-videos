@@ -5,7 +5,7 @@
 
 Viral videos made with **Kling 4.0** — cinematic shorts, ads, anime and music videos generated straight from a prompt. Every entry links to the creator's original post and, where the creator shared it, the prompt behind it.
 
-**[▶ Watch all 0 videos on clawshelf.com](https://clawshelf.com/ai-videos/kling-4?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos)**
+**[▶ Watch all 19 videos on clawshelf.com](https://clawshelf.com/ai-videos/kling-4?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos)**
 
 📦 Every model in one list: [Awesome Viral AI Videos](https://github.com/billyhetech/awesome-viral-ai-videos)
 
@@ -13,10 +13,13 @@ Other single-model lists: [Opus 5.5](https://github.com/billyhetech/awesome-opus
 
 Every entry links to the creator's original post · [submit a video](https://github.com/billyhetech/awesome-kling4-videos/issues/new?template=submit-video.yml)
 
+- Latest update (2026-10-23): 19 videos total
+- The 12 most viewed per category are highlighted below; tap any video to watch it on clawshelf.com
+
 ## Contents
 
-- [Cinematic shorts](#cinematic-shorts) (0)
-- [Ads & brand films](#ads--brand-films) (0)
+- [Cinematic shorts](#cinematic-shorts) (18)
+- [Ads & brand films](#ads--brand-films) (1)
 - [Anime & animation](#anime--animation) (0)
 - [Music videos](#music-videos) (0)
 - [Motion graphics](#motion-graphics) (0)
@@ -25,11 +28,20 @@ Every entry links to the creator's original post · [submit a video](https://git
 
 ## Cinematic shorts
 
-_No entries yet — [submit one](https://github.com/billyhetech/awesome-kling4-videos/issues/new?template=submit-video.yml)._
+<table>
+<tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/kling-4/kling-back?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos"><b>Kling is back.</b></a><br><a href="https://x.com/higgsfield/status/2112923547563917801"><b>@higgsfield</b></a> · <a href="prompts/higgsfield-917801.md">Details</a><br><sub>AI video · Image-to-video · 3.6M views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/kling-4/tesla-roadster-future-cars?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos"><b>TESLA ROADSTER. The Future of Cars...</b></a><br><a href="https://x.com/YapayZekaSerisi/status/2111489781200761061"><b>@YapayZekaSerisi</b></a> · <a href="prompts/yapayzekaserisi-761061.md">Details</a><br><sub>AI video · 1.2M views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/kling-4/kling-4-live-buzzy?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos"><b>Kling 4 is live on Buzzy.</b></a><br><a href="https://x.com/Buzzy_now_AI/status/2113269428309926358"><b>@Buzzy_now_AI</b></a> · <a href="prompts/buzzy-now-ai-926358.md">Details</a><br><sub>AI video · Image-to-video · 1.0M views</sub></td></tr>
+<tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/kling-4/reality-meets-imagination-4-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos"><b>Reality meets imagination with 4.0!</b></a><br><a href="https://x.com/Romi2656/status/2112548876884615244"><b>@Romi2656</b></a> · <a href="prompts/romi2656-615244.md">Details</a><br><sub>AI video · 690K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/kling-4/same-girl-additions?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos"><b>Same girl, new additions</b></a><br><a href="https://x.com/magnific/status/2113186131949068753"><b>@magnific</b></a> · <a href="prompts/magnific-068753.md">Details</a><br><sub>AI video · Image-to-video · 192K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/kling-4/tesla-roadster-cars-future?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos"><b>TESLA ROADSTER. Cars of the Future...</b></a><br><a href="https://x.com/YapayZekaSerisi/status/2111104253817155607"><b>@YapayZekaSerisi</b></a> · <a href="prompts/yapayzekaserisi-155607.md">Details</a><br><sub>AI video · 185K views</sub></td></tr>
+<tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/kling-4/kling-4-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos"><b>Kling 4.0</b></a><br><a href="https://x.com/blue_pen5805/status/2112981654742724868"><b>@blue_pen5805</b></a> · <a href="prompts/blue-pen5805-724868.md">Details</a><br><sub>AI video · 159K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/kling-4/kling-4-0-magnific?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos"><b>Kling 4.0 is now on Magnific</b></a><br><a href="https://x.com/magnific/status/2112940507966153008"><b>@magnific</b></a> · <a href="prompts/magnific-153008.md">Details</a><br><sub>AI video · 113K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/kling-4/kling-4-0-live-fal?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos"><b>Kling 4.0 is now live on fal.</b></a><br><a href="https://x.com/fal/status/2112922156845641823"><b>@fal</b></a> · <a href="prompts/fal-641823.md">Details</a><br><sub>AI video · 71K views</sub></td></tr>
+<tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/kling-4/kling-4-0-by-agi-aibusi?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos"><b>KLING 4.0最高！</b></a><br><a href="https://x.com/agi_aibusi/status/2110924173619138656"><b>@agi_aibusi</b></a> · <a href="prompts/agi-aibusi-138656.md">Details</a><br><sub>AI video · 68K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/kling-4/life-since-dont-have-try-40?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos"><b>life since i don’t have to try on 40 outfits before going out because i can jus…</b></a><br><a href="https://x.com/leilamakes/status/2112978227316531227"><b>@leilamakes</b></a> · <a href="prompts/leilamakes-531227.md">Details</a><br><sub>AI video · 67K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/kling-4/have-checked-out-latest-short-film?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos"><b>Have you checked out latest short film, King Card? 🃏🎬</b></a><br><a href="https://x.com/Stonic_AI/status/2111150926627287077"><b>@Stonic_AI</b></a> · <a href="prompts/stonic-ai-287077.md">Details</a><br><sub>AI video · 65K views</sub></td></tr>
+</table>
+
+[▶ See all 18 on clawshelf.com](https://clawshelf.com/ai-videos/kling-4?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos&category=cinematic)
 
 ## Ads & brand films
 
-_No entries yet — [submit one](https://github.com/billyhetech/awesome-kling4-videos/issues/new?template=submit-video.yml)._
+<table>
+<tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/kling-4/paid-ads-cooked?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos"><b>Paid ads are cooked 😭</b></a><br><a href="https://x.com/ErnestoSOFTWARE/status/2110917624167108665"><b>@ErnestoSOFTWARE</b></a> · <a href="prompts/ernestosoftware-108665.md">Details</a><br><sub>AI video · 153K views</sub></td></tr>
+</table>
 
 ## Anime & animation
 
@@ -49,6 +61,25 @@ _No entries yet — [submit one](https://github.com/billyhetech/awesome-kling4-v
 
 ## Latest videos
 
+- [Kling is back.](https://clawshelf.com/ai-videos/kling-4/kling-back?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos) — [@higgsfield](https://x.com/higgsfield/status/2112923547563917801) · [Details](prompts/higgsfield-917801.md)
+- [TESLA ROADSTER. The Future of Cars...](https://clawshelf.com/ai-videos/kling-4/tesla-roadster-future-cars?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos) — [@YapayZekaSerisi](https://x.com/YapayZekaSerisi/status/2111489781200761061) · [Details](prompts/yapayzekaserisi-761061.md)
+- [Kling 4 is live on Buzzy.](https://clawshelf.com/ai-videos/kling-4/kling-4-live-buzzy?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos) — [@Buzzy_now_AI](https://x.com/Buzzy_now_AI/status/2113269428309926358) · [Details](prompts/buzzy-now-ai-926358.md)
+- [Reality meets imagination with 4.0!](https://clawshelf.com/ai-videos/kling-4/reality-meets-imagination-4-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos) — [@Romi2656](https://x.com/Romi2656/status/2112548876884615244) · [Details](prompts/romi2656-615244.md)
+- [Same girl, new additions](https://clawshelf.com/ai-videos/kling-4/same-girl-additions?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos) — [@magnific](https://x.com/magnific/status/2113186131949068753) · [Details](prompts/magnific-068753.md)
+- [TESLA ROADSTER. Cars of the Future...](https://clawshelf.com/ai-videos/kling-4/tesla-roadster-cars-future?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos) — [@YapayZekaSerisi](https://x.com/YapayZekaSerisi/status/2111104253817155607) · [Details](prompts/yapayzekaserisi-155607.md)
+- [Kling 4.0](https://clawshelf.com/ai-videos/kling-4/kling-4-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos) — [@blue_pen5805](https://x.com/blue_pen5805/status/2112981654742724868) · [Details](prompts/blue-pen5805-724868.md)
+- [Paid ads are cooked 😭](https://clawshelf.com/ai-videos/kling-4/paid-ads-cooked?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos) — [@ErnestoSOFTWARE](https://x.com/ErnestoSOFTWARE/status/2110917624167108665) · [Details](prompts/ernestosoftware-108665.md)
+- [Kling 4.0 is now on Magnific](https://clawshelf.com/ai-videos/kling-4/kling-4-0-magnific?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos) — [@magnific](https://x.com/magnific/status/2112940507966153008) · [Details](prompts/magnific-153008.md)
+- [Kling 4.0 is now live on fal.](https://clawshelf.com/ai-videos/kling-4/kling-4-0-live-fal?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos) — [@fal](https://x.com/fal/status/2112922156845641823) · [Details](prompts/fal-641823.md)
+- [KLING 4.0最高！](https://clawshelf.com/ai-videos/kling-4/kling-4-0-by-agi-aibusi?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos) — [@agi_aibusi](https://x.com/agi_aibusi/status/2110924173619138656) · [Details](prompts/agi-aibusi-138656.md)
+- [life since i don’t have to try on 40 outfits before going out because i can jus…](https://clawshelf.com/ai-videos/kling-4/life-since-dont-have-try-40?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos) — [@leilamakes](https://x.com/leilamakes/status/2112978227316531227) · [Details](prompts/leilamakes-531227.md)
+- [Have you checked out latest short film, King Card? 🃏🎬](https://clawshelf.com/ai-videos/kling-4/have-checked-out-latest-short-film?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos) — [@Stonic_AI](https://x.com/Stonic_AI/status/2111150926627287077) · [Details](prompts/stonic-ai-287077.md)
+- [That Kling Cards newspaper-city sequence shows real progress on dynamic motions…](https://clawshelf.com/ai-videos/kling-4/kling-cards-newspaper-city-sequence-shows?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos) — [@AIwithJessica](https://x.com/AIwithJessica/status/2111287670353858644) · [Details](prompts/aiwithjessica-858644.md)
+- [The next level of AI filmmaking is here! 🤯🎬](https://clawshelf.com/ai-videos/kling-4/next-level-ai-filmmaking?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos) — [@Lisa__Rodin](https://x.com/Lisa__Rodin/status/2111381027008688393) · [Details](prompts/lisa-rodin-688393.md)
+- [Jinx and I are all about RED this week.](https://clawshelf.com/ai-videos/kling-4/jinx-all-red-week?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos) — [@Nemspy](https://x.com/Nemspy/status/2111431915882357154) · [Details](prompts/nemspy-357154.md)
+- [Kling4で作ってみたいシリーズ。カメラが切り替わると、一気にドラマ感が生まれる……気がする…。ただ、最初のアングルのままで作ってほしかった…！😂](https://clawshelf.com/ai-videos/kling-4/cinematic-shorts-by-sizetokyo-by-sizetokyo?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos) — [@SizeTokyo](https://x.com/SizeTokyo/status/2111381783661228193) · [Details](prompts/sizetokyo-228193.md)
+- [初めての30秒動画。10〜15秒の動画に比べると見応えがある気がする…！](https://clawshelf.com/ai-videos/kling-4/cinematic-shorts-by-sizetokyo?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos) — [@SizeTokyo](https://x.com/SizeTokyo/status/2112846024465346833) · [Details](prompts/sizetokyo-346833.md)
+- [Harry X Malfoid APT 💚](https://clawshelf.com/ai-videos/kling-4/harry-x-malfoid-apt?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos) — [@shishirdotai](https://x.com/shishirdotai/status/2111771875718431112) · [Details](prompts/shishirdotai-431112.md)
 
 ## How to use a prompt
 
