@@ -629,6 +629,18 @@
   "stats_snapshot": {
    "views": 508522,
    "captured_at": "2026-10-24"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/kling-4/xmliisu-995653/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/kling-4/xmliisu-995653/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/kling-4/xmliisu-995653/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/kling-4/xmliisu-995653/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 29733,
+   "bytes": 4092300,
+   "synced_at": "2026-10-24"
   }
  },
  {
@@ -649,6 +661,18 @@
   "stats_snapshot": {
    "views": 91615,
    "captured_at": "2026-10-24"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/kling-4/tapnow-ai-075032/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/kling-4/tapnow-ai-075032/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/kling-4/tapnow-ai-075032/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/kling-4/tapnow-ai-075032/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 49386,
+   "bytes": 5960952,
+   "synced_at": "2026-10-24"
   }
  }
 ]
