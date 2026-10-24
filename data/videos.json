@@ -610,5 +610,45 @@
    "bytes": 4431608,
    "synced_at": "2026-10-23"
   }
+ },
+ {
+  "slug": "xmliisu-995653",
+  "seo_slug": "he-threw-wrong-kids-backpack-out",
+  "model": "kling-4",
+  "author": "xmliisu",
+  "author_url": "https://x.com/xmliisu",
+  "post_url": "https://x.com/xmliisu/status/2113602750386995653",
+  "title": "He threw the wrong kid's backpack out the window 🪄",
+  "category": "cinematic",
+  "tech_tags": [
+   "ai-video"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-24",
+  "stats_snapshot": {
+   "views": 508522,
+   "captured_at": "2026-10-24"
+  }
+ },
+ {
+  "slug": "tapnow-ai-075032",
+  "seo_slug": "put-kling-4-0-creators-hands-day",
+  "model": "kling-4",
+  "author": "TapNow_AI",
+  "author_url": "https://x.com/TapNow_AI",
+  "post_url": "https://x.com/TapNow_AI/status/2113260866217075032",
+  "title": "We put Kling 4.0 in creators’ hands on day zero.",
+  "category": "cinematic",
+  "tech_tags": [
+   "ai-video"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-24",
+  "stats_snapshot": {
+   "views": 91615,
+   "captured_at": "2026-10-24"
+  }
  }
 ]

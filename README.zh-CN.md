@@ -7,7 +7,7 @@
 
 用 **Kling 4.0** 生成的爆款 AI 视频合集 —— 电影感短片、广告、动漫与音乐视频,一段 prompt 直接生成。每个条目都链接到创作者的原始帖子,并附上作者公开的 prompt(如有)。
 
-**[▶ 在 clawshelf.com 观看全部 19 条视频](https://clawshelf.com/ai-videos/kling-4?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos)**
+**[▶ 在 clawshelf.com 观看全部 21 条视频](https://clawshelf.com/ai-videos/kling-4?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos)**
 
 📦 全模型总集:[Awesome Viral AI Videos](https://github.com/billyhetech/awesome-viral-ai-videos)
 
@@ -15,12 +15,12 @@
 
 每个条目均链接原帖并署名 · [提交视频](https://github.com/billyhetech/awesome-kling4-videos/issues/new?template=submit-video.yml)
 
-- 最近更新(2026-10-23):共 19 条
+- 最近更新(2026-10-24):共 21 条
 - 下方每个分类展示播放量最高的 12 条;点击视频即可在 clawshelf.com 观看
 
 ## 目录
 
-- [电影感短片](#电影感短片) (18)
+- [电影感短片](#电影感短片) (20)
 - [广告与品牌片](#广告与品牌片) (1)
 - [动漫与动画](#动漫与动画) (0)
 - [音乐视频](#音乐视频) (0)
@@ -37,7 +37,7 @@
 <tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/kling-4/kling-4-0-by-agi-aibusi?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos"><img src="https://media.clawshelf.com/ai-videos/kling-4/agi-aibusi-138656/preview.webp" alt="Kling 4.0 video by @agi_aibusi" width="100%"></a><br><a href="https://x.com/agi_aibusi/status/2110924173619138656"><b>@agi_aibusi</b></a> · <a href="prompts/agi-aibusi-138656.md">详情</a><br><sub>AI video · 68K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/kling-4/life-since-dont-have-try-40?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos"><img src="https://media.clawshelf.com/ai-videos/kling-4/leilamakes-531227/preview.webp" alt="Kling 4.0 video by @leilamakes" width="100%"></a><br><a href="https://x.com/leilamakes/status/2112978227316531227"><b>@leilamakes</b></a> · <a href="prompts/leilamakes-531227.md">详情</a><br><sub>AI video · 67K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/kling-4/have-checked-out-latest-short-film?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos"><img src="https://media.clawshelf.com/ai-videos/kling-4/stonic-ai-287077/preview.webp" alt="Kling 4.0 video by @Stonic_AI" width="100%"></a><br><a href="https://x.com/Stonic_AI/status/2111150926627287077"><b>@Stonic_AI</b></a> · <a href="prompts/stonic-ai-287077.md">详情</a><br><sub>AI video · 65K views</sub></td></tr>
 </table>
 
-[▶ 在 clawshelf.com 查看全部 18 条](https://clawshelf.com/ai-videos/kling-4?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos&category=cinematic)
+[▶ 在 clawshelf.com 查看全部 20 条](https://clawshelf.com/ai-videos/kling-4?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos&category=cinematic)
 
 ## 广告与品牌片
 
@@ -63,6 +63,8 @@ _还没有收录 —— [来提交第一个](https://github.com/billyhetech/awes
 
 ## 最新收录
 
+- [He threw the wrong kid's backpack out the window 🪄](https://clawshelf.com/ai-videos/kling-4/he-threw-wrong-kids-backpack-out?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos) — [@xmliisu](https://x.com/xmliisu/status/2113602750386995653) · [详情](prompts/xmliisu-995653.md)
+- [We put Kling 4.0 in creators’ hands on day zero.](https://clawshelf.com/ai-videos/kling-4/put-kling-4-0-creators-hands-day?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos) — [@TapNow_AI](https://x.com/TapNow_AI/status/2113260866217075032) · [详情](prompts/tapnow-ai-075032.md)
 - [Kling is back.](https://clawshelf.com/ai-videos/kling-4/kling-back?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos) — [@higgsfield](https://x.com/higgsfield/status/2112923547563917801) · [详情](prompts/higgsfield-917801.md)
 - [TESLA ROADSTER. The Future of Cars...](https://clawshelf.com/ai-videos/kling-4/tesla-roadster-future-cars?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos) — [@YapayZekaSerisi](https://x.com/YapayZekaSerisi/status/2111489781200761061) · [详情](prompts/yapayzekaserisi-761061.md)
 - [Kling 4 is live on Buzzy.](https://clawshelf.com/ai-videos/kling-4/kling-4-live-buzzy?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos) — [@Buzzy_now_AI](https://x.com/Buzzy_now_AI/status/2113269428309926358) · [详情](prompts/buzzy-now-ai-926358.md)
