@@ -7,7 +7,7 @@
 
 用 **Kling 4.0** 生成的爆款 AI 视频合集 —— 电影感短片、广告、动漫与音乐视频,一段 prompt 直接生成。每个条目都链接到创作者的原始帖子,并附上作者公开的 prompt(如有)。
 
-**[▶ 在 clawshelf.com 观看全部 21 条视频](https://clawshelf.com/ai-videos/kling-4?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos)**
+**[▶ 在 clawshelf.com 观看全部 23 条视频](https://clawshelf.com/ai-videos/kling-4?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos)**
 
 📦 全模型总集:[Awesome Viral AI Videos](https://github.com/billyhetech/awesome-viral-ai-videos)
 
@@ -15,14 +15,14 @@
 
 每个条目均链接原帖并署名 · [提交视频](https://github.com/billyhetech/awesome-kling4-videos/issues/new?template=submit-video.yml)
 
-- 最近更新(2026-10-24):共 21 条
+- 最近更新(2026-10-25):共 23 条
 - 下方每个分类展示播放量最高的 12 条;点击视频即可在 clawshelf.com 观看
 
 ## 目录
 
-- [电影感短片](#电影感短片) (20)
+- [电影感短片](#电影感短片) (21)
 - [广告与品牌片](#广告与品牌片) (1)
-- [动漫与动画](#动漫与动画) (0)
+- [动漫与动画](#动漫与动画) (1)
 - [音乐视频](#音乐视频) (0)
 - [动态图形](#动态图形) (0)
 - [长片](#长片) (0)
@@ -37,7 +37,7 @@
 <tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/kling-4/put-kling-4-0-creators-hands-day?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos"><img src="https://media.clawshelf.com/ai-videos/kling-4/tapnow-ai-075032/preview.webp" alt="Kling 4.0 video by @TapNow_AI" width="100%"></a><br><a href="https://x.com/TapNow_AI/status/2113260866217075032"><b>@TapNow_AI</b></a> · <a href="prompts/tapnow-ai-075032.md">详情</a><br><sub>AI video · 92K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/kling-4/kling-4-0-live-fal?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos"><img src="https://media.clawshelf.com/ai-videos/kling-4/fal-641823/preview.webp" alt="Kling 4.0 video by @fal" width="100%"></a><br><a href="https://x.com/fal/status/2112922156845641823"><b>@fal</b></a> · <a href="prompts/fal-641823.md">详情</a><br><sub>AI video · 71K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/kling-4/kling-4-0-by-agi-aibusi?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos"><img src="https://media.clawshelf.com/ai-videos/kling-4/agi-aibusi-138656/preview.webp" alt="Kling 4.0 video by @agi_aibusi" width="100%"></a><br><a href="https://x.com/agi_aibusi/status/2110924173619138656"><b>@agi_aibusi</b></a> · <a href="prompts/agi-aibusi-138656.md">详情</a><br><sub>AI video · 68K views</sub></td></tr>
 </table>
 
-[▶ 在 clawshelf.com 查看全部 20 条](https://clawshelf.com/ai-videos/kling-4?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos&category=cinematic)
+[▶ 在 clawshelf.com 查看全部 21 条](https://clawshelf.com/ai-videos/kling-4?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos&category=cinematic)
 
 ## 广告与品牌片
 
@@ -47,7 +47,9 @@
 
 ## 动漫与动画
 
-_还没有收录 —— [来提交第一个](https://github.com/billyhetech/awesome-kling4-videos/issues/new?template=submit-video.yml)。_
+<table>
+<tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/kling-4/jim-sneaks-into-mysterious-hideout-searching?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos"><b>Jim sneaks into a mysterious hideout searching for his missing girl, only to en…</b></a><br><a href="https://x.com/botcreates/status/2114049297582874715"><b>@botcreates</b></a> · <a href="prompts/botcreates-874715.md">详情</a><br><sub>AI video · Image-to-video · 244K views</sub></td></tr>
+</table>
 
 ## 音乐视频
 
@@ -63,6 +65,8 @@ _还没有收录 —— [来提交第一个](https://github.com/billyhetech/awes
 
 ## 最新收录
 
+- [Jim sneaks into a mysterious hideout searching for his missing girl, only to en…](https://clawshelf.com/ai-videos/kling-4/jim-sneaks-into-mysterious-hideout-searching?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos) — [@botcreates](https://x.com/botcreates/status/2114049297582874715) · [详情](prompts/botcreates-874715.md)
+- [Discover how creators are bringing cinematic visions to life with Kling 4.0, ca…](https://clawshelf.com/ai-videos/kling-4/discover-how-creators-bringing-cinematic-visions?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos) — [@Kling_ai](https://x.com/Kling_ai/status/2113601348881002731) · [详情](prompts/kling-ai-002731.md)
 - [He threw the wrong kid's backpack out the window 🪄](https://clawshelf.com/ai-videos/kling-4/he-threw-wrong-kids-backpack-out?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos) — [@xmliisu](https://x.com/xmliisu/status/2113602750386995653) · [详情](prompts/xmliisu-995653.md)
 - [We put Kling 4.0 in creators’ hands on day zero.](https://clawshelf.com/ai-videos/kling-4/put-kling-4-0-creators-hands-day?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos) — [@TapNow_AI](https://x.com/TapNow_AI/status/2113260866217075032) · [详情](prompts/tapnow-ai-075032.md)
 - [Kling is back.](https://clawshelf.com/ai-videos/kling-4/kling-back?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos) — [@higgsfield](https://x.com/higgsfield/status/2112923547563917801) · [详情](prompts/higgsfield-917801.md)

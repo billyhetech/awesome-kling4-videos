@@ -674,5 +674,46 @@
    "bytes": 5960952,
    "synced_at": "2026-10-24"
   }
+ },
+ {
+  "slug": "botcreates-874715",
+  "seo_slug": "jim-sneaks-into-mysterious-hideout-searching",
+  "model": "kling-4",
+  "author": "botcreates",
+  "author_url": "https://x.com/botcreates",
+  "post_url": "https://x.com/botcreates/status/2114049297582874715",
+  "title": "Jim sneaks into a mysterious hideout searching for his missing girl, only to en…",
+  "category": "anime",
+  "tech_tags": [
+   "ai-video",
+   "image-to-video"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-25",
+  "stats_snapshot": {
+   "views": 244183,
+   "captured_at": "2026-10-25"
+  }
+ },
+ {
+  "slug": "kling-ai-002731",
+  "seo_slug": "discover-how-creators-bringing-cinematic-visions",
+  "model": "kling-4",
+  "author": "Kling_ai",
+  "author_url": "https://x.com/Kling_ai",
+  "post_url": "https://x.com/Kling_ai/status/2113601348881002731",
+  "title": "Discover how creators are bringing cinematic visions to life with Kling 4.0, ca…",
+  "category": "cinematic",
+  "tech_tags": [
+   "ai-video"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-25",
+  "stats_snapshot": {
+   "views": 143429,
+   "captured_at": "2026-10-25"
+  }
  }
 ]

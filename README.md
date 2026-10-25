@@ -7,7 +7,7 @@
 
 Viral videos made with **Kling 4.0** — cinematic shorts, ads, anime and music videos generated straight from a prompt. Every entry links to the creator's original post and, where the creator shared it, the prompt behind it.
 
-**[▶ Watch all 21 videos on clawshelf.com](https://clawshelf.com/ai-videos/kling-4?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos)**
+**[▶ Watch all 23 videos on clawshelf.com](https://clawshelf.com/ai-videos/kling-4?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos)**
 
 📦 Every model in one list: [Awesome Viral AI Videos](https://github.com/billyhetech/awesome-viral-ai-videos)
 
@@ -15,14 +15,14 @@ Other single-model lists: [Opus 5.5](https://github.com/billyhetech/awesome-opus
 
 Every entry links to the creator's original post · [submit a video](https://github.com/billyhetech/awesome-kling4-videos/issues/new?template=submit-video.yml)
 
-- Latest update (2026-10-24): 21 videos total
+- Latest update (2026-10-25): 23 videos total
 - The 12 most viewed per category are highlighted below; tap any video to watch it on clawshelf.com
 
 ## Contents
 
-- [Cinematic shorts](#cinematic-shorts) (20)
+- [Cinematic shorts](#cinematic-shorts) (21)
 - [Ads & brand films](#ads--brand-films) (1)
-- [Anime & animation](#anime--animation) (0)
+- [Anime & animation](#anime--animation) (1)
 - [Music videos](#music-videos) (0)
 - [Motion graphics](#motion-graphics) (0)
 - [Long-form](#long-form) (0)
@@ -37,7 +37,7 @@ Every entry links to the creator's original post · [submit a video](https://git
 <tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/kling-4/put-kling-4-0-creators-hands-day?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos"><img src="https://media.clawshelf.com/ai-videos/kling-4/tapnow-ai-075032/preview.webp" alt="Kling 4.0 video by @TapNow_AI" width="100%"></a><br><a href="https://x.com/TapNow_AI/status/2113260866217075032"><b>@TapNow_AI</b></a> · <a href="prompts/tapnow-ai-075032.md">Details</a><br><sub>AI video · 92K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/kling-4/kling-4-0-live-fal?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos"><img src="https://media.clawshelf.com/ai-videos/kling-4/fal-641823/preview.webp" alt="Kling 4.0 video by @fal" width="100%"></a><br><a href="https://x.com/fal/status/2112922156845641823"><b>@fal</b></a> · <a href="prompts/fal-641823.md">Details</a><br><sub>AI video · 71K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/kling-4/kling-4-0-by-agi-aibusi?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos"><img src="https://media.clawshelf.com/ai-videos/kling-4/agi-aibusi-138656/preview.webp" alt="Kling 4.0 video by @agi_aibusi" width="100%"></a><br><a href="https://x.com/agi_aibusi/status/2110924173619138656"><b>@agi_aibusi</b></a> · <a href="prompts/agi-aibusi-138656.md">Details</a><br><sub>AI video · 68K views</sub></td></tr>
 </table>
 
-[▶ See all 20 on clawshelf.com](https://clawshelf.com/ai-videos/kling-4?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos&category=cinematic)
+[▶ See all 21 on clawshelf.com](https://clawshelf.com/ai-videos/kling-4?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos&category=cinematic)
 
 ## Ads & brand films
 
@@ -47,7 +47,9 @@ Every entry links to the creator's original post · [submit a video](https://git
 
 ## Anime & animation
 
-_No entries yet — [submit one](https://github.com/billyhetech/awesome-kling4-videos/issues/new?template=submit-video.yml)._
+<table>
+<tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/kling-4/jim-sneaks-into-mysterious-hideout-searching?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos"><b>Jim sneaks into a mysterious hideout searching for his missing girl, only to en…</b></a><br><a href="https://x.com/botcreates/status/2114049297582874715"><b>@botcreates</b></a> · <a href="prompts/botcreates-874715.md">Details</a><br><sub>AI video · Image-to-video · 244K views</sub></td></tr>
+</table>
 
 ## Music videos
 
@@ -63,6 +65,8 @@ _No entries yet — [submit one](https://github.com/billyhetech/awesome-kling4-v
 
 ## Latest videos
 
+- [Jim sneaks into a mysterious hideout searching for his missing girl, only to en…](https://clawshelf.com/ai-videos/kling-4/jim-sneaks-into-mysterious-hideout-searching?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos) — [@botcreates](https://x.com/botcreates/status/2114049297582874715) · [Details](prompts/botcreates-874715.md)
+- [Discover how creators are bringing cinematic visions to life with Kling 4.0, ca…](https://clawshelf.com/ai-videos/kling-4/discover-how-creators-bringing-cinematic-visions?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos) — [@Kling_ai](https://x.com/Kling_ai/status/2113601348881002731) · [Details](prompts/kling-ai-002731.md)
 - [He threw the wrong kid's backpack out the window 🪄](https://clawshelf.com/ai-videos/kling-4/he-threw-wrong-kids-backpack-out?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos) — [@xmliisu](https://x.com/xmliisu/status/2113602750386995653) · [Details](prompts/xmliisu-995653.md)
 - [We put Kling 4.0 in creators’ hands on day zero.](https://clawshelf.com/ai-videos/kling-4/put-kling-4-0-creators-hands-day?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos) — [@TapNow_AI](https://x.com/TapNow_AI/status/2113260866217075032) · [Details](prompts/tapnow-ai-075032.md)
 - [Kling is back.](https://clawshelf.com/ai-videos/kling-4/kling-back?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos) — [@higgsfield](https://x.com/higgsfield/status/2112923547563917801) · [Details](prompts/higgsfield-917801.md)
