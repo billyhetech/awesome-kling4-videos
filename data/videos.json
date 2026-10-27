@@ -854,6 +854,18 @@
   "stats_snapshot": {
    "views": 175940,
    "captured_at": "2026-10-27"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/kling-4/rom1trs-479519/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/kling-4/rom1trs-479519/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/kling-4/rom1trs-479519/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/kling-4/rom1trs-479519/poster.jpg",
+   "width": 810,
+   "height": 720,
+   "duration_ms": 12053,
+   "bytes": 1189230,
+   "synced_at": "2026-10-27"
   }
  },
  {
@@ -874,6 +886,18 @@
   "stats_snapshot": {
    "views": 122922,
    "captured_at": "2026-10-27"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/kling-4/thinkiastudio-291713/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/kling-4/thinkiastudio-291713/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/kling-4/thinkiastudio-291713/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/kling-4/thinkiastudio-291713/poster.jpg",
+   "width": 720,
+   "height": 1280,
+   "duration_ms": 30186,
+   "bytes": 4333775,
+   "synced_at": "2026-10-27"
   }
  },
  {
@@ -894,6 +918,18 @@
   "stats_snapshot": {
    "views": 119103,
    "captured_at": "2026-10-27"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/kling-4/kloufrenx-572685/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/kling-4/kloufrenx-572685/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/kling-4/kloufrenx-572685/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/kling-4/kloufrenx-572685/poster.jpg",
+   "width": 720,
+   "height": 1224,
+   "duration_ms": 15046,
+   "bytes": 2275006,
+   "synced_at": "2026-10-27"
   }
  },
  {
@@ -914,6 +950,18 @@
   "stats_snapshot": {
    "views": 106048,
    "captured_at": "2026-10-27"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/kling-4/0x-zyven-314964/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/kling-4/0x-zyven-314964/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/kling-4/0x-zyven-314964/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/kling-4/0x-zyven-314964/poster.jpg",
+   "width": 720,
+   "height": 1280,
+   "duration_ms": 13066,
+   "bytes": 2385213,
+   "synced_at": "2026-10-27"
   }
  },
  {
@@ -934,6 +982,18 @@
   "stats_snapshot": {
    "views": 97597,
    "captured_at": "2026-10-27"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/kling-4/josedevau-154045/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/kling-4/josedevau-154045/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/kling-4/josedevau-154045/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/kling-4/josedevau-154045/poster.jpg",
+   "width": 848,
+   "height": 480,
+   "duration_ms": 40583,
+   "bytes": 3364973,
+   "synced_at": "2026-10-27"
   }
  },
  {
@@ -954,6 +1014,18 @@
   "stats_snapshot": {
    "views": 19280,
    "captured_at": "2026-10-27"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/kling-4/gemalpha-88-541016/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/kling-4/gemalpha-88-541016/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/kling-4/gemalpha-88-541016/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/kling-4/gemalpha-88-541016/poster.jpg",
+   "width": 720,
+   "height": 1280,
+   "duration_ms": 30080,
+   "bytes": 3780507,
+   "synced_at": "2026-10-27"
   }
  }
 ]
