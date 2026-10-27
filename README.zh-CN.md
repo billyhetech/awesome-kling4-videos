@@ -7,7 +7,7 @@
 
 用 **Kling 4.0** 生成的爆款 AI 视频合集 —— 电影感短片、广告、动漫与音乐视频,一段 prompt 直接生成。每个条目都链接到创作者的原始帖子,并附上作者公开的 prompt(如有)。
 
-**[▶ 在 clawshelf.com 观看全部 23 条视频](https://clawshelf.com/ai-videos/kling-4?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos)**
+**[▶ 在 clawshelf.com 观看全部 26 条视频](https://clawshelf.com/ai-videos/kling-4?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos)**
 
 📦 全模型总集:[Awesome Viral AI Videos](https://github.com/billyhetech/awesome-viral-ai-videos)
 
@@ -15,12 +15,12 @@
 
 每个条目均链接原帖并署名 · [提交视频](https://github.com/billyhetech/awesome-kling4-videos/issues/new?template=submit-video.yml)
 
-- 最近更新(2026-10-25):共 23 条
+- 最近更新(2026-10-27):共 26 条
 - 下方每个分类展示播放量最高的 12 条;点击视频即可在 clawshelf.com 观看
 
 ## 目录
 
-- [电影感短片](#电影感短片) (21)
+- [电影感短片](#电影感短片) (24)
 - [广告与品牌片](#广告与品牌片) (1)
 - [动漫与动画](#动漫与动画) (1)
 - [音乐视频](#音乐视频) (0)
@@ -37,7 +37,7 @@
 <tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/kling-4/kling-4-0-magnific?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos"><img src="https://media.clawshelf.com/ai-videos/kling-4/magnific-153008/preview.webp" alt="Kling 4.0 video by @magnific" width="100%"></a><br><a href="https://x.com/magnific/status/2112940507966153008"><b>@magnific</b></a> · <a href="prompts/magnific-153008.md">详情</a><br><sub>AI video · 113K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/kling-4/put-kling-4-0-creators-hands-day?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos"><img src="https://media.clawshelf.com/ai-videos/kling-4/tapnow-ai-075032/preview.webp" alt="Kling 4.0 video by @TapNow_AI" width="100%"></a><br><a href="https://x.com/TapNow_AI/status/2113260866217075032"><b>@TapNow_AI</b></a> · <a href="prompts/tapnow-ai-075032.md">详情</a><br><sub>AI video · 92K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/kling-4/kling-4-0-live-fal?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos"><img src="https://media.clawshelf.com/ai-videos/kling-4/fal-641823/preview.webp" alt="Kling 4.0 video by @fal" width="100%"></a><br><a href="https://x.com/fal/status/2112922156845641823"><b>@fal</b></a> · <a href="prompts/fal-641823.md">详情</a><br><sub>AI video · 71K views</sub></td></tr>
 </table>
 
-[▶ 在 clawshelf.com 查看全部 21 条](https://clawshelf.com/ai-videos/kling-4?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos&category=cinematic)
+[▶ 在 clawshelf.com 查看全部 24 条](https://clawshelf.com/ai-videos/kling-4?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos&category=cinematic)
 
 ## 广告与品牌片
 
@@ -65,6 +65,9 @@ _还没有收录 —— [来提交第一个](https://github.com/billyhetech/awes
 
 ## 最新收录
 
+- [🚙 I tested the same desert-chase prompt across Seedance 2.0, Seedance 2.5, and…](https://clawshelf.com/ai-videos/kling-4/tested-same-desert-chase-prompt-across?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos) — [@DerwinPrieto](https://x.com/DerwinPrieto/status/2114619690798420358) · [详情](prompts/derwinprieto-420358.md)
+- [🎬 1992. Spielberg busca al dinosaurio perfecto para Jurassic Park](https://clawshelf.com/ai-videos/kling-4/1992-spielberg-busca-al-dinosaurio-perfecto?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos) — [@Raul_IA_Prod](https://x.com/Raul_IA_Prod/status/2114747198235676858) · [详情](prompts/raul-ia-prod-676858.md)
+- [ハロウィンの7日間、Renoiseで動画生成が使い放題です🎃](https://clawshelf.com/ai-videos/kling-4/cinematic-shorts-by-renoiseaijp?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos) — [@renoiseaijp](https://x.com/renoiseaijp/status/2114748892445028606) · [详情](prompts/renoiseaijp-028606.md)
 - [Jim sneaks into a mysterious hideout searching for his missing girl, only to en…](https://clawshelf.com/ai-videos/kling-4/jim-sneaks-into-mysterious-hideout-searching?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos) — [@botcreates](https://x.com/botcreates/status/2114049297582874715) · [详情](prompts/botcreates-874715.md)
 - [Discover how creators are bringing cinematic visions to life with Kling 4.0, ca…](https://clawshelf.com/ai-videos/kling-4/discover-how-creators-bringing-cinematic-visions?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos) — [@Kling_ai](https://x.com/Kling_ai/status/2113601348881002731) · [详情](prompts/kling-ai-002731.md)
 - [He threw the wrong kid's backpack out the window 🪄](https://clawshelf.com/ai-videos/kling-4/he-threw-wrong-kids-backpack-out?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos) — [@xmliisu](https://x.com/xmliisu/status/2113602750386995653) · [详情](prompts/xmliisu-995653.md)
