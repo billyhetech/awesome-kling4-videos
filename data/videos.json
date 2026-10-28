@@ -1091,5 +1091,26 @@
    "bytes": 4120625,
    "synced_at": "2026-10-28"
   }
+ },
+ {
+  "slug": "youralphamom-175400",
+  "seo_slug": "seedance-2-5-vs-kling-4-0-better",
+  "model": "kling-4",
+  "author": "YourAlphaMom",
+  "author_url": "https://x.com/YourAlphaMom",
+  "post_url": "https://x.com/YourAlphaMom/status/2115191029641175400",
+  "title": "Seedance 2.5 vs Kling 4.0: is better realism worth 16× the price? 👀",
+  "category": "cinematic",
+  "tech_tags": [
+   "ai-video",
+   "native-audio"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-28",
+  "stats_snapshot": {
+   "views": 62630,
+   "captured_at": "2026-10-28"
+  }
  }
 ]
