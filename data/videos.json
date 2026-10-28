@@ -1027,5 +1027,45 @@
    "bytes": 3780507,
    "synced_at": "2026-10-27"
   }
+ },
+ {
+  "slug": "renoiseai-258842",
+  "seo_slug": "halloween-unlimited-live-renoise",
+  "model": "kling-4",
+  "author": "renoiseai",
+  "author_url": "https://x.com/renoiseai",
+  "post_url": "https://x.com/renoiseai/status/2114748894563258842",
+  "title": "Halloween Unlimited is live on Renoise 🎃",
+  "category": "cinematic",
+  "tech_tags": [
+   "ai-video"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-28",
+  "stats_snapshot": {
+   "views": 122402,
+   "captured_at": "2026-10-28"
+  }
+ },
+ {
+  "slug": "vibeeverything-982110",
+  "seo_slug": "ai-4",
+  "model": "kling-4",
+  "author": "VibeEverything",
+  "author_url": "https://x.com/VibeEverything",
+  "post_url": "https://x.com/VibeEverything/status/2114693404361982110",
+  "title": "최신 AI 영상 모델 4종 브이로그 인물 표현 비교",
+  "category": "cinematic",
+  "tech_tags": [
+   "ai-video"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-28",
+  "stats_snapshot": {
+   "views": 32990,
+   "captured_at": "2026-10-28"
+  }
  }
 ]

@@ -7,7 +7,7 @@
 
 用 **Kling 4.0** 生成的爆款 AI 视频合集 —— 电影感短片、广告、动漫与音乐视频,一段 prompt 直接生成。每个条目都链接到创作者的原始帖子,并附上作者公开的 prompt(如有)。
 
-**[▶ 在 clawshelf.com 观看全部 32 条视频](https://clawshelf.com/ai-videos/kling-4?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos)**
+**[▶ 在 clawshelf.com 观看全部 34 条视频](https://clawshelf.com/ai-videos/kling-4?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos)**
 
 📦 全模型总集:[Awesome Viral AI Videos](https://github.com/billyhetech/awesome-viral-ai-videos)
 
@@ -15,12 +15,12 @@
 
 每个条目均链接原帖并署名 · [提交视频](https://github.com/billyhetech/awesome-kling4-videos/issues/new?template=submit-video.yml)
 
-- 最近更新(2026-10-27):共 32 条
+- 最近更新(2026-10-28):共 34 条
 - 下方每个分类展示播放量最高的 12 条;点击视频即可在 clawshelf.com 观看
 
 ## 目录
 
-- [电影感短片](#电影感短片) (30)
+- [电影感短片](#电影感短片) (32)
 - [广告与品牌片](#广告与品牌片) (1)
 - [动漫与动画](#动漫与动画) (1)
 - [音乐视频](#音乐视频) (0)
@@ -37,7 +37,7 @@
 <tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/kling-4/discover-how-creators-bringing-cinematic-visions?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos"><img src="https://media.clawshelf.com/ai-videos/kling-4/kling-ai-002731/preview.webp" alt="Kling 4.0 video by @Kling_ai" width="100%"></a><br><a href="https://x.com/Kling_ai/status/2113601348881002731"><b>@Kling_ai</b></a> · <a href="prompts/kling-ai-002731.md">详情</a><br><sub>AI video · 143K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/kling-4/kane-se-llevo-el-oro-mbappe?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos"><img src="https://media.clawshelf.com/ai-videos/kling-4/thinkiastudio-291713/preview.webp" alt="Kling 4.0 video by @ThinkIAStudio" width="100%"></a><br><a href="https://x.com/ThinkIAStudio/status/2114858208909291713"><b>@ThinkIAStudio</b></a> · <a href="prompts/thinkiastudio-291713.md">详情</a><br><sub>AI video · 123K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/kling-4/fox-has-plan-whether-good-plan?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos"><img src="https://media.clawshelf.com/ai-videos/kling-4/kloufrenx-572685/preview.webp" alt="Kling 4.0 video by @kloufrenx" width="100%"></a><br><a href="https://x.com/kloufrenx/status/2114507770661572685"><b>@kloufrenx</b></a> · <a href="prompts/kloufrenx-572685.md">详情</a><br><sub>AI video · 119K views</sub></td></tr>
 </table>
 
-[▶ 在 clawshelf.com 查看全部 30 条](https://clawshelf.com/ai-videos/kling-4?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos&category=cinematic)
+[▶ 在 clawshelf.com 查看全部 32 条](https://clawshelf.com/ai-videos/kling-4?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos&category=cinematic)
 
 ## 广告与品牌片
 
@@ -65,6 +65,8 @@ _还没有收录 —— [来提交第一个](https://github.com/billyhetech/awes
 
 ## 最新收录
 
+- [Halloween Unlimited is live on Renoise 🎃](https://clawshelf.com/ai-videos/kling-4/halloween-unlimited-live-renoise?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos) — [@renoiseai](https://x.com/renoiseai/status/2114748894563258842) · [详情](prompts/renoiseai-258842.md)
+- [최신 AI 영상 모델 4종 브이로그 인물 표현 비교](https://clawshelf.com/ai-videos/kling-4/ai-4?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos) — [@VibeEverything](https://x.com/VibeEverything/status/2114693404361982110) · [详情](prompts/vibeeverything-982110.md)
 - [Kling 4.0 VS Seedance 2.5](https://clawshelf.com/ai-videos/kling-4/kling-4-0-vs-seedance-2-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos) — [@rom1trs](https://x.com/rom1trs/status/2114696481479479519) · [详情](prompts/rom1trs-479519.md)
 - [🏆 ¡KANE SE LLEVÓ EL ORO, MBAPPÉ EL CLÁSICO! 😂⚽](https://clawshelf.com/ai-videos/kling-4/kane-se-llevo-el-oro-mbappe?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos) — [@ThinkIAStudio](https://x.com/ThinkIAStudio/status/2114858208909291713) · [详情](prompts/thinkiastudio-291713.md)
 - [That fox has a plan. Whether it’s a good plan is another matter 😂](https://clawshelf.com/ai-videos/kling-4/fox-has-plan-whether-good-plan?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos) — [@kloufrenx](https://x.com/kloufrenx/status/2114507770661572685) · [详情](prompts/kloufrenx-572685.md)
@@ -93,8 +95,6 @@ _还没有收录 —— [来提交第一个](https://github.com/billyhetech/awes
 - [Have you checked out latest short film, King Card? 🃏🎬](https://clawshelf.com/ai-videos/kling-4/have-checked-out-latest-short-film?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos) — [@Stonic_AI](https://x.com/Stonic_AI/status/2111150926627287077) · [详情](prompts/stonic-ai-287077.md)
 - [That Kling Cards newspaper-city sequence shows real progress on dynamic motions…](https://clawshelf.com/ai-videos/kling-4/kling-cards-newspaper-city-sequence-shows?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos) — [@AIwithJessica](https://x.com/AIwithJessica/status/2111287670353858644) · [详情](prompts/aiwithjessica-858644.md)
 - [The next level of AI filmmaking is here! 🤯🎬](https://clawshelf.com/ai-videos/kling-4/next-level-ai-filmmaking?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos) — [@Lisa__Rodin](https://x.com/Lisa__Rodin/status/2111381027008688393) · [详情](prompts/lisa-rodin-688393.md)
-- [Jinx and I are all about RED this week.](https://clawshelf.com/ai-videos/kling-4/jinx-all-red-week?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos) — [@Nemspy](https://x.com/Nemspy/status/2111431915882357154) · [详情](prompts/nemspy-357154.md)
-- [Kling4で作ってみたいシリーズ。カメラが切り替わると、一気にドラマ感が生まれる……気がする…。ただ、最初のアングルのままで作ってほしかった…！😂](https://clawshelf.com/ai-videos/kling-4/cinematic-shorts-by-sizetokyo-by-sizetokyo?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos) — [@SizeTokyo](https://x.com/SizeTokyo/status/2111381783661228193) · [详情](prompts/sizetokyo-228193.md)
 
 ## 如何使用 prompt
 
