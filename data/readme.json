@@ -1,6 +1,6 @@
 {
  "mosaic": {
-  "url": "https://media.clawshelf.com/ai-videos/_readme/awesome-kling4-videos/mosaic.2b379926be.webp",
+  "url": "https://media.clawshelf.com/ai-videos/_readme/awesome-kling4-videos/mosaic.6439c80a03.webp",
   "width": 960,
   "height": 480,
   "slugs": [
@@ -17,6 +17,7 @@
    "ernestosoftware-108665",
    "kling-ai-002731",
    "thinkiastudio-291713",
+   "renoiseai-258842",
    "kloufrenx-572685",
    "derwinprieto-420358",
    "magnific-153008",
@@ -26,8 +27,7 @@
    "raul-ia-prod-676858",
    "fal-641823",
    "renoiseaijp-028606",
-   "agi-aibusi-138656",
-   "leilamakes-531227"
+   "agi-aibusi-138656"
   ]
  }
 }
