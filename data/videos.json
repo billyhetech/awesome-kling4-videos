@@ -1124,5 +1124,45 @@
    "bytes": 1275366,
    "synced_at": "2026-10-28"
   }
+ },
+ {
+  "slug": "igus-ai-834933",
+  "seo_slug": "claude-opus-5-5-la-api-de",
+  "model": "kling-4",
+  "author": "igus_ai",
+  "author_url": "https://x.com/igus_ai",
+  "post_url": "https://x.com/igus_ai/status/2115523166814834933",
+  "title": "Claude Opus 5.5 + la API de Sunra es una locura…",
+  "category": "cinematic",
+  "tech_tags": [
+   "ai-video"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-29",
+  "stats_snapshot": {
+   "views": 121786,
+   "captured_at": "2026-10-29"
+  }
+ },
+ {
+  "slug": "1h77k-543710",
+  "seo_slug": "train-arrives-midnight-but-nobody-who",
+  "model": "kling-4",
+  "author": "1H77k",
+  "author_url": "https://x.com/1H77k",
+  "post_url": "https://x.com/1H77k/status/2115393085144543710",
+  "title": "The train arrives at midnight… but nobody who boards it ever returns the same.…",
+  "category": "cinematic",
+  "tech_tags": [
+   "ai-video"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-29",
+  "stats_snapshot": {
+   "views": 78036,
+   "captured_at": "2026-10-29"
+  }
  }
 ]
