@@ -3,7 +3,7 @@
 
 [English](README.md) · [中文](README.zh-CN.md)
 
-<a href="https://clawshelf.com/ai-videos/kling-4?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos"><img src="https://media.clawshelf.com/ai-videos/_readme/awesome-kling4-videos/mosaic.6439c80a03.webp" alt="A wall of viral videos made with Kling 4.0: cinematic shorts, ads, anime and music videos" width="100%"></a>
+<a href="https://clawshelf.com/ai-videos/kling-4?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos"><img src="https://media.clawshelf.com/ai-videos/_readme/awesome-kling4-videos/mosaic.0952094283.webp" alt="A wall of viral videos made with Kling 4.0: cinematic shorts, ads, anime and music videos" width="100%"></a>
 
 Viral videos made with **Kling 4.0** — cinematic shorts, ads, anime and music videos generated straight from a prompt. Every entry links to the creator's original post and, where the creator shared it, the prompt behind it.
 

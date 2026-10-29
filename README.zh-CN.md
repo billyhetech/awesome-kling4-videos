@@ -3,7 +3,7 @@
 
 [English](README.md) · [中文](README.zh-CN.md)
 
-<a href="https://clawshelf.com/ai-videos/kling-4?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos"><img src="https://media.clawshelf.com/ai-videos/_readme/awesome-kling4-videos/mosaic.6439c80a03.webp" alt="Kling 4.0 爆款视频墙:电影感短片、广告、动漫、音乐视频" width="100%"></a>
+<a href="https://clawshelf.com/ai-videos/kling-4?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos"><img src="https://media.clawshelf.com/ai-videos/_readme/awesome-kling4-videos/mosaic.0952094283.webp" alt="Kling 4.0 爆款视频墙:电影感短片、广告、动漫、音乐视频" width="100%"></a>
 
 用 **Kling 4.0** 生成的爆款 AI 视频合集 —— 电影感短片、广告、动漫与音乐视频,一段 prompt 直接生成。每个条目都链接到创作者的原始帖子,并附上作者公开的 prompt(如有)。
 
