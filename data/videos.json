@@ -1188,5 +1188,45 @@
    "bytes": 2833691,
    "synced_at": "2026-10-29"
   }
+ },
+ {
+  "slug": "kling-ai-891468",
+  "seo_slug": "rhythm-fight-force-movement-precision-shot",
+  "model": "kling-4",
+  "author": "Kling_ai",
+  "author_url": "https://x.com/Kling_ai",
+  "post_url": "https://x.com/Kling_ai/status/2115783207626891468",
+  "title": "The rhythm of a fight. The force of a movement. The precision of a shot.",
+  "category": "cinematic",
+  "tech_tags": [
+   "ai-video"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-30",
+  "stats_snapshot": {
+   "views": 751054,
+   "captured_at": "2026-10-30"
+  }
+ },
+ {
+  "slug": "sizetokyo-884426",
+  "seo_slug": "polloai-kling4-30",
+  "model": "kling-4",
+  "author": "SizeTokyo",
+  "author_url": "https://x.com/SizeTokyo",
+  "post_url": "https://x.com/SizeTokyo/status/2115738242326884426",
+  "title": "PolloAI （ ）でKling4が使えるようになったそうです！どうしても30秒動画を作りたくて、色々なプロンプトを検証中です…！まだまだ不自然な動きはあり…",
+  "category": "cinematic",
+  "tech_tags": [
+   "ai-video"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-30",
+  "stats_snapshot": {
+   "views": 11469,
+   "captured_at": "2026-10-30"
+  }
  }
 ]
