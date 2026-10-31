@@ -7,7 +7,7 @@
 
 Viral videos made with **Kling 4.0** — cinematic shorts, ads, anime and music videos generated straight from a prompt. Every entry links to the creator's original post and, where the creator shared it, the prompt behind it.
 
-**[▶ Watch all 39 videos on clawshelf.com](https://clawshelf.com/ai-videos/kling-4?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos)**
+**[▶ Watch all 40 videos on clawshelf.com](https://clawshelf.com/ai-videos/kling-4?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos)**
 
 📦 Every model in one list: [Awesome Viral AI Videos](https://github.com/billyhetech/awesome-viral-ai-videos)
 
@@ -15,12 +15,12 @@ Other single-model lists: [Opus 5.5](https://github.com/billyhetech/awesome-opus
 
 Every entry links to the creator's original post · [submit a video](https://github.com/billyhetech/awesome-kling4-videos/issues/new?template=submit-video.yml)
 
-- Latest update (2026-10-30): 39 videos total
+- Latest update (2026-10-31): 40 videos total
 - The 12 most viewed per category are highlighted below; tap any video to watch it on clawshelf.com
 
 ## Contents
 
-- [Cinematic shorts](#cinematic-shorts) (37)
+- [Cinematic shorts](#cinematic-shorts) (38)
 - [Ads & brand films](#ads--brand-films) (1)
 - [Anime & animation](#anime--animation) (1)
 - [Music videos](#music-videos) (0)
@@ -37,7 +37,7 @@ Every entry links to the creator's original post · [submit a video](https://git
 <tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/kling-4/kling-4-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos"><img src="https://media.clawshelf.com/ai-videos/kling-4/blue-pen5805-724868/preview.webp" alt="Kling 4.0 video by @blue_pen5805" width="100%"></a><br><a href="https://x.com/blue_pen5805/status/2112981654742724868"><b>@blue_pen5805</b></a> · <a href="prompts/blue-pen5805-724868.md">Details</a><br><sub>AI video · 159K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/kling-4/discover-how-creators-bringing-cinematic-visions?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos"><img src="https://media.clawshelf.com/ai-videos/kling-4/kling-ai-002731/preview.webp" alt="Kling 4.0 video by @Kling_ai" width="100%"></a><br><a href="https://x.com/Kling_ai/status/2113601348881002731"><b>@Kling_ai</b></a> · <a href="prompts/kling-ai-002731.md">Details</a><br><sub>AI video · 143K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/kling-4/kane-se-llevo-el-oro-mbappe?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos"><img src="https://media.clawshelf.com/ai-videos/kling-4/thinkiastudio-291713/preview.webp" alt="Kling 4.0 video by @ThinkIAStudio" width="100%"></a><br><a href="https://x.com/ThinkIAStudio/status/2114858208909291713"><b>@ThinkIAStudio</b></a> · <a href="prompts/thinkiastudio-291713.md">Details</a><br><sub>AI video · 123K views</sub></td></tr>
 </table>
 
-[▶ See all 37 on clawshelf.com](https://clawshelf.com/ai-videos/kling-4?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos&category=cinematic)
+[▶ See all 38 on clawshelf.com](https://clawshelf.com/ai-videos/kling-4?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos&category=cinematic)
 
 ## Ads & brand films
 
@@ -65,6 +65,7 @@ _No entries yet — [submit one](https://github.com/billyhetech/awesome-kling4-v
 
 ## Latest videos
 
+- [Created this cinematic sequence using Kling 4.0 on ElevenCreative. 🏎️](https://clawshelf.com/ai-videos/kling-4/cinematic-sequence-kling-4-0-elevencreative?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos) — [@Ciri_ai](https://x.com/Ciri_ai/status/2116415281463750779) · [Details](prompts/ciri-ai-750779.md)
 - [The rhythm of a fight. The force of a movement. The precision of a shot.](https://clawshelf.com/ai-videos/kling-4/rhythm-fight-force-movement-precision-shot?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos) — [@Kling_ai](https://x.com/Kling_ai/status/2115783207626891468) · [Details](prompts/kling-ai-891468.md)
 - [PolloAI （ ）でKling4が使えるようになったそうです！どうしても30秒動画を作りたくて、色々なプロンプトを検証中です…！まだまだ不自然な動きはあり…](https://clawshelf.com/ai-videos/kling-4/polloai-kling4-30?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos) — [@SizeTokyo](https://x.com/SizeTokyo/status/2115738242326884426) · [Details](prompts/sizetokyo-884426.md)
 - [Claude Opus 5.5 + la API de Sunra es una locura…](https://clawshelf.com/ai-videos/kling-4/claude-opus-5-5-la-api-de?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos) — [@igus_ai](https://x.com/igus_ai/status/2115523166814834933) · [Details](prompts/igus-ai-834933.md)
@@ -94,7 +95,6 @@ _No entries yet — [submit one](https://github.com/billyhetech/awesome-kling4-v
 - [Kling 4.0](https://clawshelf.com/ai-videos/kling-4/kling-4-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos) — [@blue_pen5805](https://x.com/blue_pen5805/status/2112981654742724868) · [Details](prompts/blue-pen5805-724868.md)
 - [Paid ads are cooked 😭](https://clawshelf.com/ai-videos/kling-4/paid-ads-cooked?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos) — [@ErnestoSOFTWARE](https://x.com/ErnestoSOFTWARE/status/2110917624167108665) · [Details](prompts/ernestosoftware-108665.md)
 - [Kling 4.0 is now on Magnific](https://clawshelf.com/ai-videos/kling-4/kling-4-0-magnific?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos) — [@magnific](https://x.com/magnific/status/2112940507966153008) · [Details](prompts/magnific-153008.md)
-- [Kling 4.0 is now live on fal.](https://clawshelf.com/ai-videos/kling-4/kling-4-0-live-fal?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos) — [@fal](https://x.com/fal/status/2112922156845641823) · [Details](prompts/fal-641823.md)
 
 ## How to use a prompt
 

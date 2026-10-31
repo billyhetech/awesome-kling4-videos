@@ -7,7 +7,7 @@
 
 用 **Kling 4.0** 生成的爆款 AI 视频合集 —— 电影感短片、广告、动漫与音乐视频,一段 prompt 直接生成。每个条目都链接到创作者的原始帖子,并附上作者公开的 prompt(如有)。
 
-**[▶ 在 clawshelf.com 观看全部 39 条视频](https://clawshelf.com/ai-videos/kling-4?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos)**
+**[▶ 在 clawshelf.com 观看全部 40 条视频](https://clawshelf.com/ai-videos/kling-4?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos)**
 
 📦 全模型总集:[Awesome Viral AI Videos](https://github.com/billyhetech/awesome-viral-ai-videos)
 
@@ -15,12 +15,12 @@
 
 每个条目均链接原帖并署名 · [提交视频](https://github.com/billyhetech/awesome-kling4-videos/issues/new?template=submit-video.yml)
 
-- 最近更新(2026-10-30):共 39 条
+- 最近更新(2026-10-31):共 40 条
 - 下方每个分类展示播放量最高的 12 条;点击视频即可在 clawshelf.com 观看
 
 ## 目录
 
-- [电影感短片](#电影感短片) (37)
+- [电影感短片](#电影感短片) (38)
 - [广告与品牌片](#广告与品牌片) (1)
 - [动漫与动画](#动漫与动画) (1)
 - [音乐视频](#音乐视频) (0)
@@ -37,7 +37,7 @@
 <tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/kling-4/kling-4-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos"><img src="https://media.clawshelf.com/ai-videos/kling-4/blue-pen5805-724868/preview.webp" alt="Kling 4.0 video by @blue_pen5805" width="100%"></a><br><a href="https://x.com/blue_pen5805/status/2112981654742724868"><b>@blue_pen5805</b></a> · <a href="prompts/blue-pen5805-724868.md">详情</a><br><sub>AI video · 159K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/kling-4/discover-how-creators-bringing-cinematic-visions?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos"><img src="https://media.clawshelf.com/ai-videos/kling-4/kling-ai-002731/preview.webp" alt="Kling 4.0 video by @Kling_ai" width="100%"></a><br><a href="https://x.com/Kling_ai/status/2113601348881002731"><b>@Kling_ai</b></a> · <a href="prompts/kling-ai-002731.md">详情</a><br><sub>AI video · 143K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/kling-4/kane-se-llevo-el-oro-mbappe?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos"><img src="https://media.clawshelf.com/ai-videos/kling-4/thinkiastudio-291713/preview.webp" alt="Kling 4.0 video by @ThinkIAStudio" width="100%"></a><br><a href="https://x.com/ThinkIAStudio/status/2114858208909291713"><b>@ThinkIAStudio</b></a> · <a href="prompts/thinkiastudio-291713.md">详情</a><br><sub>AI video · 123K views</sub></td></tr>
 </table>
 
-[▶ 在 clawshelf.com 查看全部 37 条](https://clawshelf.com/ai-videos/kling-4?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos&category=cinematic)
+[▶ 在 clawshelf.com 查看全部 38 条](https://clawshelf.com/ai-videos/kling-4?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos&category=cinematic)
 
 ## 广告与品牌片
 
@@ -65,6 +65,7 @@ _还没有收录 —— [来提交第一个](https://github.com/billyhetech/awes
 
 ## 最新收录
 
+- [Created this cinematic sequence using Kling 4.0 on ElevenCreative. 🏎️](https://clawshelf.com/ai-videos/kling-4/cinematic-sequence-kling-4-0-elevencreative?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos) — [@Ciri_ai](https://x.com/Ciri_ai/status/2116415281463750779) · [详情](prompts/ciri-ai-750779.md)
 - [The rhythm of a fight. The force of a movement. The precision of a shot.](https://clawshelf.com/ai-videos/kling-4/rhythm-fight-force-movement-precision-shot?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos) — [@Kling_ai](https://x.com/Kling_ai/status/2115783207626891468) · [详情](prompts/kling-ai-891468.md)
 - [PolloAI （ ）でKling4が使えるようになったそうです！どうしても30秒動画を作りたくて、色々なプロンプトを検証中です…！まだまだ不自然な動きはあり…](https://clawshelf.com/ai-videos/kling-4/polloai-kling4-30?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos) — [@SizeTokyo](https://x.com/SizeTokyo/status/2115738242326884426) · [详情](prompts/sizetokyo-884426.md)
 - [Claude Opus 5.5 + la API de Sunra es una locura…](https://clawshelf.com/ai-videos/kling-4/claude-opus-5-5-la-api-de?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos) — [@igus_ai](https://x.com/igus_ai/status/2115523166814834933) · [详情](prompts/igus-ai-834933.md)
@@ -94,7 +95,6 @@ _还没有收录 —— [来提交第一个](https://github.com/billyhetech/awes
 - [Kling 4.0](https://clawshelf.com/ai-videos/kling-4/kling-4-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos) — [@blue_pen5805](https://x.com/blue_pen5805/status/2112981654742724868) · [详情](prompts/blue-pen5805-724868.md)
 - [Paid ads are cooked 😭](https://clawshelf.com/ai-videos/kling-4/paid-ads-cooked?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos) — [@ErnestoSOFTWARE](https://x.com/ErnestoSOFTWARE/status/2110917624167108665) · [详情](prompts/ernestosoftware-108665.md)
 - [Kling 4.0 is now on Magnific](https://clawshelf.com/ai-videos/kling-4/kling-4-0-magnific?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos) — [@magnific](https://x.com/magnific/status/2112940507966153008) · [详情](prompts/magnific-153008.md)
-- [Kling 4.0 is now live on fal.](https://clawshelf.com/ai-videos/kling-4/kling-4-0-live-fal?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling4-videos) — [@fal](https://x.com/fal/status/2112922156845641823) · [详情](prompts/fal-641823.md)
 
 ## 如何使用 prompt
 

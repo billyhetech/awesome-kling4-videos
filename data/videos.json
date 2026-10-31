@@ -1252,5 +1252,25 @@
    "bytes": 2451705,
    "synced_at": "2026-10-30"
   }
+ },
+ {
+  "slug": "ciri-ai-750779",
+  "seo_slug": "cinematic-sequence-kling-4-0-elevencreative",
+  "model": "kling-4",
+  "author": "Ciri_ai",
+  "author_url": "https://x.com/Ciri_ai",
+  "post_url": "https://x.com/Ciri_ai/status/2116415281463750779",
+  "title": "Created this cinematic sequence using Kling 4.0 on ElevenCreative. 🏎️",
+  "category": "cinematic",
+  "tech_tags": [
+   "ai-video"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-31",
+  "stats_snapshot": {
+   "views": 50865,
+   "captured_at": "2026-10-31"
+  }
  }
 ]
