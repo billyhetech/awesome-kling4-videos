@@ -1271,6 +1271,18 @@
   "stats_snapshot": {
    "views": 50865,
    "captured_at": "2026-10-31"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/kling-4/ciri-ai-750779/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/kling-4/ciri-ai-750779/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/kling-4/ciri-ai-750779/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/kling-4/ciri-ai-750779/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 30112,
+   "bytes": 4144134,
+   "synced_at": "2026-10-31"
   }
  }
 ]
